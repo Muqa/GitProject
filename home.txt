@@ -2,3 +2,4 @@
 2) I'm editing it for the first time. 
 3) check for difference
 4) compare staging with repo
+5) move from working copy to repo without using staging
