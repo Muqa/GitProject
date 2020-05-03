@@ -1,1 +1,3 @@
-This is the first file for Git project. I'm editing it for the first time.
+1) This is the first file for Git project. 
+2) I'm editing it for the first time. 
+3) check for difference
