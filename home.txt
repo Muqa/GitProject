@@ -3,3 +3,4 @@
 3) check for difference
 4) compare staging with repo
 5) move from working copy to repo without using staging
+1) This is the first file for Git project. 
