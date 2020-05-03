@@ -1,3 +1,4 @@
 1) This is the first file for Git project. 
 2) I'm editing it for the first time. 
 3) check for difference
+4) compare staging with repo
