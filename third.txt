@@ -1,2 +1,0 @@
-1) This is the third file to commit. first edit.
-2) changes for diff
